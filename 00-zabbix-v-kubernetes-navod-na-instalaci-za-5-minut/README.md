@@ -167,4 +167,7 @@ Napište mi také pokud vás zajímá konkrétní oblast (např. instalace modul
 - https://k3s.io/
 - https://helm.sh/
 - https://github.com/zabbix-community/helm-zabbix
+- https://kubernetes.io/docs/concepts/services-networking/ingress/
+- https://kubernetes.io/docs/reference/kubectl/generated/kubectl_port-forward/
+- https://kubernetes.io/docs/reference/kubectl/quick-reference/
 
