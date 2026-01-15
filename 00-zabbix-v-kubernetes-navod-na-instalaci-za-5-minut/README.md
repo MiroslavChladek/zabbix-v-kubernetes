@@ -41,7 +41,8 @@ curl -sfL https://get.k3s.io | sh -
 ```
 ### Kontrola stavu
 ```
-kubectl get all -n zabbix-namespace
+kubectl get node -o wide
+kubectl get pods -A
 ```
 
 ### Nastavení konfiguračního souboru pro nástroj kubectl
