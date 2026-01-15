@@ -165,6 +165,7 @@ Napište mi také pokud vás zajímá konkrétní oblast (např. instalace modul
 - https://www.zabbix.com/container_images
 - https://kubernetes.io/docs/home/
 - https://k3s.io/
+- https://github.com/kelseyhightower/kubernetes-the-hard-way
 - https://helm.sh/
 - https://github.com/zabbix-community/helm-zabbix
 - https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/
