@@ -4,7 +4,10 @@ Průvodce instalací základního Zabbix stacku do K3s pomocí Helmu, jejímž c
 
 VM: Rocky Linux 9.6, Hezner Cloud, CX33
 
-Video: 
+### Video: Zabbix v Kubernetes – návod na instalaci za 5 minut
+https://www.youtube.com/watch?v=qGbjZ6hB8uk
+
+[![Video: Zabbix v Kubernetes – návod na instalaci za 5 minut](https://i.ytimg.com/vi/qGbjZ6hB8uk/hqdefault.jpg)](https://www.youtube.com/watch?v=qGbjZ6hB8uk)
 
 **Instalace je rozdělena do následujících kroků:**
 
